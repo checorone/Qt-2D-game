@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>but1.png</file>
+        <file>fishforward.png</file>
+        <file>fishbackward.png</file>
+        <file>wormforward.png</file>
+        <file>wormbackward.png</file>
+        <file>booster.png</file>
+    </qresource>
+</RCC>
